@@ -1,0 +1,8 @@
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\Debug\VitaAppSyncSVC.exe.config
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\Debug\VitaAppSyncSVC.exe
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\Debug\VitaAppSyncSVC.pdb
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\obj\Debug\VitaAppSyncSVC.csprojAssemblyReference.cache
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\obj\Debug\VitaAppSyncSVC.csproj.CopyComplete
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\obj\Debug\VitaAppSyncSVC.exe
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\obj\Debug\VitaAppSyncSVC.pdb

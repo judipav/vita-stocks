@@ -1,0 +1,14 @@
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\VitaAppSyncSVC.exe.config
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\VitaAppSyncSVC.exe
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\VitaAppSyncSVC.pdb
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\obj\x64\Debug\VitaAppSyncSVC.csproj.CopyComplete
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\obj\x64\Debug\VitaAppSyncSVC.exe
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\obj\x64\Debug\VitaAppSyncSVC.pdb
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\NLog.config
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\NLog.dll
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\bin\x64\Debug\NLog.xml
+C:\Users\reklama19\source\repos\VitaAppSyncSVC\VitaAppSyncSVC\obj\x64\Debug\VitaAppSyncSVC.csprojAssemblyReference.cache
